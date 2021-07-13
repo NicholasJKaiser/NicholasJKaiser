@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NicholasJKaiser
-But you can call me Nick! I'm a graduate of NSCC, specifically Computer Electronics, and am currently working as a Electro-Mechanical calibration and repair tech.
+But you can call me Nick! I'm a graduate of NSCC, specifically Computer Electronics, and am currently working as a Electrical calibration and repair tech.
 
 - 👀 I’m interested in ...
 Embedded devices & micro-controllers, Application and Software development, Geopolitics of nations. I LOVE THE MAPLE LEAFS!
